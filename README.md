@@ -1,1 +1,2 @@
 # Huwa_Portfolio
+Diese Seite dient mir zum lernen von den Mathematischen Prozessen hinter so einem Online-Kasino und wie man möglichst genau die Wahrscheinlichkeiten auf Gewinnen oder Verlieren manipulieren kann(ja, ich sage "manipulieren").
